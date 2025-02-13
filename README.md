@@ -1,4 +1,4 @@
-# A Proposed RAG Architecture
+# DocuChat
 
 This is an open source AI chat assistant, developed with Deep Seek R1 and Llama 3.2
 
