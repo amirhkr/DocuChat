@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-ollama
+llama-index-llms-huggingface
+huggingface_hub
+IPython
+dotenv
